@@ -21,6 +21,8 @@ author:
 theme: jekyll-theme-chirpy
 lang: "en"
 timezone: "America/Chicago"
+plugins:
+  - jekyll-feed
 
 # ─────────────────────────────────────────────
 # Collections — custom project pages
