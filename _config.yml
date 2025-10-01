@@ -1,98 +1,35 @@
-# ─────────────────────────────────────────────
-# Basic site settings
-# ─────────────────────────────────────────────
-title: "Mason Kotlarz"
-description: "CPRE 494 Portfolio — Projects, Resume, and Reflections"
-url: "https://mason-kotlarz.github.io"
-baseurl: "" # leave blank for user.github.io root sites
+# Chirpy Theme Configuration
+lang: en
+timezone: America/Chicago
+title: Mason Kotlarz
+tagline: Cybersecurity Engineering Portfolio
+description: >-
+  Portfolio showcasing projects and reflections in cybersecurity, 
+  digital forensics, and software development.
 
-# ─────────────────────────────────────────────
-# Author info
-# ─────────────────────────────────────────────
-author:
-  name: "Mason Kotlarz"
-  email: "your_email@iastate.edu"
-  avatar: "/assets/profileimg.jpg" # headshot
-  bio: "Cyber Security Engineering"
+# Chirpy theme
+remote_theme: cotes2020/jekyll-theme-chirpy
 
-# ─────────────────────────────────────────────
-# Theme settings (Chirpy)
-# ─────────────────────────────────────────────
-theme: jekyll-theme-chirpy
-lang: "en"
-timezone: "America/Chicago"
-plugins:
-  - jekyll-feed
+# Site build settings
+permalink: /posts/:title/
+paginate: 10
+paginate_path: /page:path/
 
-# ─────────────────────────────────────────────
-# Collections — custom project pages
-# ─────────────────────────────────────────────
-collections:
-  projects:
-    output: true
-    permalink: /:name/
+# Social media (optional - fill with your info)
+twitter:
+  username: 
+github:
+  username: MasonKotlarz
+linkedin:
+  username: 
 
-# ─────────────────────────────────────────────
-# Defaults — layouts for pages and collections
-# ─────────────────────────────────────────────
-defaults:
-  - scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: project
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: page
+# Comments (optional)
+comments:
+  active: 
+  provider: 
 
-# ─────────────────────────────────────────────
-# Build settings
-# ─────────────────────────────────────────────
-markdown: kramdown
-highlighter: rouge
-permalink: pretty
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-# ─────────────────────────────────────────────
-# Social links (optional)
-# ─────────────────────────────────────────────
-social:
-  github: "masonkkotlarz"
-  linkedin: "masonkotlarz"
-  email: "mkotlarz@iastate.edu"
-
-# ─────────────────────────────────────────────
-# Exclude folders from build
-# ─────────────────────────────────────────────
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
-  - .gitignore
-  - .github
-  - .vscode
-  - .devcontainer
-  - tools
-
-# ─────────────────────────────────────────────
-# Feed / SEO / Sitemap configuration
-# ─────────────────────────────────────────────
-feed:
-  path: feed.xml
-
-seo:
-  name: "Mason Kotlarz"
-  type: "Person"
-
-sitemap:
-  exclude:
-    - "/assets/"
-    - "/node_modules/"
-
+# Analytics (optional)
+analytics:
+  provider: 
+  google:
+    tracking_id: 
