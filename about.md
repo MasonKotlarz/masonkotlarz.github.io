@@ -1,16 +1,16 @@
 ---
+title: About
 layout: page
-title: "Resume"
-permalink: /page
 ---
 
-# My Resume
+# About Me
 
-Below is my full resume embedded as a PDF. You can also [download it here]({{ '/assets/resume.pdf' | relative_url }}) if you prefer.
+## Mason Kotlarz
 
-<embed 
-  src="{{ '/assets/resume.pdf' | relative_url }}" 
-  type="application/pdf" 
-  width="100%" 
-  height="900px" />
+I am passionate about learning, hardworking, determined, and overly ambitious. I have experience in Digital Forensics, Incident Response, Vulnerability Management, Endpoint Protection, Software Development, and some Embedded Systems. I love learning about cyber security!
 
+### Career Objective
+
+I aim to work in cybersecurity engineering — either in a cyber security engineering, SOC, or Pentesting Role.
+
+[Download My Resume](/assets/pdf/resume.pdf)
