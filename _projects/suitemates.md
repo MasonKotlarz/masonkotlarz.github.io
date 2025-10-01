@@ -5,7 +5,7 @@ categories: [Projects]
 tags: [android, java, mobile-development]
 ---
 
-Awarded Best Project
+**Awarded Best Project**
 
 I, and 3 other students, worked on an app that can be ran on Android devices, similar to the popular app Tinder, but can be used for finding roommates.
 
