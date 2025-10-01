@@ -3,7 +3,7 @@ title: "Senior Design - LM Fuzzing"
 date: 2025/09/30
 role: "Team Lead"
 permalink: /projects/senior design/
-layout: project
+layout: page
 ---
 
 # Senior Design - LM Fuzzing

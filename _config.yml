@@ -12,8 +12,8 @@ baseurl: "" # leave blank for user.github.io root sites
 author:
   name: "Mason Kotlarz"
   email: "your_email@iastate.edu"
-  avatar: "/assets/images/me.jpg" # headshot
-  bio: "Computer Engineering student passionate about embedded systems, cybersecurity, and network defense."
+  avatar: "/assets/profileimg.jpg" # headshot
+  bio: "Cyber Security Engineering"
 
 # ─────────────────────────────────────────────
 # Theme settings (Chirpy)
@@ -30,7 +30,7 @@ plugins:
 collections:
   projects:
     output: true
-    permalink: /projects/:name/
+    permalink: /:name/
 
 # ─────────────────────────────────────────────
 # Defaults — layouts for pages and collections
@@ -59,27 +59,12 @@ plugins:
   - jekyll-sitemap
 
 # ─────────────────────────────────────────────
-# Navigation menu
-# ─────────────────────────────────────────────
-# These links appear in the site header/navbar
-# ─────────────────────────────────────────────
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "Resume"
-    url: "/resume/"
-  - title: "Projects"
-    url: "/projects/"
-  - title: "Reflections"
-    url: "/reflections/"
-
-# ─────────────────────────────────────────────
 # Social links (optional)
 # ─────────────────────────────────────────────
 social:
-  github: "mason-kotlarz"
-  linkedin: "mason-kotlarz"
-  email: "your_email@iastate.edu"
+  github: "masonkkotlarz"
+  linkedin: "masonkotlarz"
+  email: "mkotlarz@iastate.edu"
 
 # ─────────────────────────────────────────────
 # Exclude folders from build

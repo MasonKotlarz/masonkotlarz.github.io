@@ -24,3 +24,13 @@ I aim to work in **cybersecurity engineering** — either in a cyber security en
 - [LinkedIn](https://linkedin.com/in/masonkotlarz)
 
 ---
+
+### Resume
+
+Below is my resume. You can also [download it here]({{ '/assets/resume.pdf' | relative_url }}).
+
+<embed 
+  src="{{ '/assets/resume.pdf' | relative_url }}" 
+  type="application/pdf" 
+  width="100%" 
+  height="900px" />

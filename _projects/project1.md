@@ -3,7 +3,7 @@ title: "Suitemates - COMS 309"
 date: 2023-04-22
 role: "Developer"
 permalink: /projects/Suitemates/
-layout: project
+layout: page
 ---
 
 # Suitemates - COM S 309

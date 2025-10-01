@@ -2,7 +2,7 @@
 title: "Processor - CPRE 381"
 date: 2023-04-22
 permalink: /projects/processor/
-layout: project
+layout: page
 ---
 
 # Processor - CPRE 381 
