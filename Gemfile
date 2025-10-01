@@ -5,6 +5,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.3"
 gem "jekyll-theme-chirpy", "~> 7.3.1"
 gem "jekyll-include-cache"
+gem "jekyll-archives"
 gem "jekyll-feed"
 gem "jekyll-seo-tag"
 gem "webrick", "~> 1.8"   # needed for Ruby 3.x local server

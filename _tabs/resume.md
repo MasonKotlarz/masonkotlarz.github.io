@@ -3,7 +3,7 @@ layout: page
 title: Resume
 permalink: /resume/
 icon: fas fa-file-pdf
-order: 5
+order: 2
 ---
 
 Below is my resume embedded as a PDF.  

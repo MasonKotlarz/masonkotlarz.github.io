@@ -3,7 +3,7 @@ layout: page
 title: Reflections
 permalink: /reflections/
 icon: fas fa-book
-order: 3
+order: 5
 ---
 {% for reflection in site.reflections %}
 - [{{ reflection.title }}]({{ reflection.url }})

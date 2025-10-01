@@ -2,7 +2,7 @@
 title: "Cumulative Reflection"
 layout: post
 date: 2025-09-15
-author: mkotlarz
+categories: [Reflections]
 tags: [cumulative, cpre, reflection]
 ---
 

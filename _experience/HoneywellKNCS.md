@@ -2,8 +2,8 @@
 title: "Honeywell"
 layout: post
 date: 2024-05-10
+categories: [Experience]
 tags: [internship, work-experience]
-author: mkotlarz
 ---
 
 ### Internship at National Security Campus managed by Honeywell FM&T
