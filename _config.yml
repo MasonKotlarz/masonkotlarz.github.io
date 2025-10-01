@@ -1,4 +1,4 @@
-# Chirpy Theme Configuration
+# Chirpy Configuration
 lang: en
 timezone: America/Chicago
 title: Mason Kotlarz
@@ -15,21 +15,24 @@ permalink: /posts/:title/
 paginate: 10
 paginate_path: /page:path/
 
-# Social media (optional - fill with your info)
+# Social media
 twitter:
   username: 
 github:
   username: MasonKotlarz
-linkedin:
-  username: 
 
-# Comments (optional)
+# Comments (disable if not needed)
 comments:
-  active: 
-  provider: 
+  active: false
 
-# Analytics (optional)
+# Analytics (disable if not needed)
 analytics:
-  provider: 
-  google:
-    tracking_id: 
+  active: false
+
+# Exclude from processing
+exclude:
+  - .git
+  - .gitignore
+  - README.md
+  - Gemfile
+  - Gemfile.lock
