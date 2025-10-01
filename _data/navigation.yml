@@ -1,9 +1,15 @@
 main:
   - title: "Home"
     url: /
+
   - title: "Projects"
     url: /projects/
+
   - title: "Reflections"
     url: /reflections/
+
+  - title: "Internship Experience"
+    url: /experience/
+
   - title: "Resume"
     url: /assets/pdf/resume.pdf

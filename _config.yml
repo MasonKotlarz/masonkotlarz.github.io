@@ -10,6 +10,19 @@ plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
 
+sidebar:
+  avatar: /assets/img/profileimg.jpg
+  title: "Mason Kotlarz"
+  subtitle: "Cybersecurity Engineering Student"
+  description: maskotlarz@iastate.edu 
+
+  # Add links for contact
+  social:
+    github: MasonKotlarz
+    linkedin: your-linkedin-username
+    email: your-email@iastate.edu
+
+
 collections:
   projects:
     output: true
@@ -17,6 +30,10 @@ collections:
   reflections:
     output: true
     permalink: /reflections/:path/
+  experience:
+    output: true
+    permalink: /experience/:path/
+
 
 defaults:
   - scope:
