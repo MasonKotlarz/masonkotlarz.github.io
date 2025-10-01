@@ -1,7 +1,7 @@
 ---
 title: "General Education Reflection"
+layout: post
 date: 2025-09-15
-categories: [Reflections]
 tags: [general-education, reflection]
 ---
 

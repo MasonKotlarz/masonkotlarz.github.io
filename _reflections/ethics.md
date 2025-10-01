@@ -1,7 +1,7 @@
 ---
 title: "Ethics Paper"
+layout: post
 date: 2025-04-22
-categories: [Reflections]
 tags: [ethics, cybersecurity]
 ---
 

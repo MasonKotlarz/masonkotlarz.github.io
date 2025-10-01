@@ -1,7 +1,7 @@
 ---
 title: "Senior Design - LM Fuzzing"
+layout: post
 date: 2025-09-30
-categories: [Projects]
 tags: [fuzzing, AI, security-testing, senior-design]
 ---
 

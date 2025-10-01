@@ -1,7 +1,7 @@
 ---
 title: "Cumulative Reflection"
+layout: post
 date: 2025-09-15
-categories: [Reflections]
 tags: [cumulative, cpre, reflection]
 ---
 

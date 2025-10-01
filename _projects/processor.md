@@ -1,7 +1,7 @@
 ---
 title: "Processor - CPRE 381"
+layout: post
 date: 2023-04-22
-categories: [Projects]
 tags: [vhdl, processor, hardware]
 ---
 

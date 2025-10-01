@@ -1,7 +1,7 @@
 ---
 title: "Network Forensics - CYBE 436"
+layout: post
 date: 2024-04-22
-categories: [Projects]
 tags: [forensics, network-security, cybersecurity]
 ---
 
