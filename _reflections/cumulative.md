@@ -3,7 +3,7 @@ title: "Cumulative Reflection"
 date: 2025-09-15
 summary: "A comprehensive reflection on my overall CPRE journey."
 permalink: /reflections/cumulative/
-layout: reflection
+layout: default
 ---
 
 # Cumulative Reflection

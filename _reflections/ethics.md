@@ -1,9 +1,8 @@
 ---
 title: "Ethics Paper"
 date: 2025-04-22
-summary: "A reflection on professional ethics in computer engineering."
 permalink: /reflections/ethics/
-layout: reflection
+layout: default
 ---
 
 # ⚖️ Ethics Paper

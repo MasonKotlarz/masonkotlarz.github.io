@@ -1,9 +1,8 @@
 ---
 title: "General Education Reflection"
 date: 2025-09-15
-summary: "A reflection on how general education courses have shaped my academic growth."
 permalink: /reflections/gen-ed/
-layout: reflection
+layout: default
 ---
 
 # General Education Reflection

@@ -2,7 +2,7 @@
 title: "Network Forenics - CYBE 436"
 date: 2024-04-22
 permalink: /projects/sensor-network/
-layout: page
+layout: default
 ---
 
 # Network Forenics - CYBE 436
