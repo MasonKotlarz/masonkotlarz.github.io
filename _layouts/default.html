@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        nav {
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #eee;
+        }
+        nav a {
+            margin-right: 15px;
+        }
+        img {
+            max-width: 100%;
+        }
+        embed {
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="/">Home</a>
+        <a href="/projects/">Projects</a>
+        <a href="/reflections/">Reflections</a>
+    </nav>
+
+    <main>
+        {{ content }}
+    </main>
+
+    <footer style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #eee;">
+        <p>&copy; {{ site.time | date: '%Y' }} Mason Kotlarz</p>
+    </footer>
+</body>
+</html>
