@@ -24,10 +24,3 @@ I aim to work in **cybersecurity engineering** — either in a cyber security en
 - [LinkedIn](https://linkedin.com/in/masonkotlarz)
 
 ---
-
-### Quick Links
-
-- [Resume]({{ '/resume/' | relative_url }})
-- [Projects]({{ '/projects/' | relative_url }})
-- [Reflections]({{ '/reflections/' | relative_url }})
-
