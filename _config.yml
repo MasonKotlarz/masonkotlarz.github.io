@@ -3,15 +3,12 @@ description: "Cybersecurity Engineering Portfolio"
 baseurl: ""
 url: "https://masonkotlarz.github.io"
 
-# Use minimal theme
-theme: minima
-
-# Or no theme with custom layout
-# theme: null
+theme: jekyll-theme-chirpy
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-include-cache
 
 collections:
   projects:
