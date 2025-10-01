@@ -19,3 +19,8 @@ Maintained and collected data using enterprise SIEM (log aggregator Splunk) to s
 - Created and improved queries to improve organization CSIRT and DFIR analytics, reports, alerts, and dashboards. 
 
 
+### About 
+
+ I interned with the National Security Campus managed by Honeywell FM&T, where I worked on the engineering team to design and implement advanced security systems and networks. I was directly involved in maintaining and collecting data using Splunk to support NNSA contractor requirements, which honed my skills in handling enterprise SIEMs. I also developed Python scripts to utilize APIs, parse data, HTTP event collectors (HEC), and Syslog for data ingestion. Created workflows to prioritize patching and remediation efforts, improving business processes for over 80 teams.
+
+

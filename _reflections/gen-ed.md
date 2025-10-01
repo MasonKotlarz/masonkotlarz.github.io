@@ -2,8 +2,8 @@
 title: "General Education Reflection"
 layout: post
 date: 2025-09-15
-tags: [general-education, reflection]
 author: mkotlarz
+tags: [general-education, reflection]
 ---
 
 Below is my reflection paper embedded as a PDF.  

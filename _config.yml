@@ -27,9 +27,10 @@ author: mkotlarz
 avatar: /assets/img/profile.png
 
 social:
-  email: "maskotlarz@iastate.edu"
-  github: "MasonKotlarz"
-  linkedin: "https://linkedin.com/in/masonkotlarz"
+  email: "mkotlarz@iastate.edu"
+  github: MasonKotlarz
+  linkedin: https://www.linkedin.com/in/masonkotlarz
+
 
 # =====================================================
 # Theme Settings

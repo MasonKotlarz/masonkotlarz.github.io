@@ -2,8 +2,8 @@
 title: "Ethics Paper"
 layout: post
 date: 2025-04-22
-tags: [ethics, cybersecurity]
 author: mkotlarz
+tags: [ethics, cybersecurity]
 ---
 
 Below is my ethics reflection embedded as a PDF.  
