@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 ---
 
-# 🛠 My Projects
+# My Projects
 
 Below are a few projects that highlight my skills and interests:
 

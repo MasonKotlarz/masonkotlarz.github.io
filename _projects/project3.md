@@ -1,18 +1,24 @@
 ---
-title: "Embedded Sensor Network"
-date: 2024-12-15
-role: "Hardware Engineer"
-skills: ["C", "Microcontrollers", "Networking"]
-summary: "An IoT sensor network prototype for collecting and transmitting environmental data."
+title: "Network Forenics - CYBE 436"
+date: 2024-04-22
 permalink: /projects/sensor-network/
 layout: project
 ---
 
-# 🌐 Embedded Sensor Network
+# Network Forenics - CYBE 436
 
-Designed and implemented a distributed IoT sensor network for environmental data collection.
+Forensics + network captures are invaluable for reconstructing an incident timeline and attributing actions. This case showed how a small vulnerability (SQLi) combined with poor operational hygiene (weak accounts, lax firewall rules, insecure uploads) can lead to full site compromise. The exercise reinforced the need to combine secure coding, strict access control, and proactive monitoring.
 
-**My role:** Developed firmware and configured communication protocols between nodes.
+###  Project Report (PDF)
 
-**Skills gained:** C programming, microcontroller design, UART communication, and IoT architecture.
+Below is the full project report embedded as a PDF.  
+You can also [download it here]({{ '/assets/report.pdf' | relative_url }}).
+
+<embed 
+  src="{{ '/assets/report.pdf' | relative_url }}" 
+  type="application/pdf" 
+  width="100%" 
+  height="900px" />
+
+---
 

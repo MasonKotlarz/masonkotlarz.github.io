@@ -1,6 +1,6 @@
 ---
 title: "Ethics Paper"
-date: 2025-01-20
+date: 2025-04-22
 summary: "A reflection on professional ethics in computer engineering."
 permalink: /reflections/ethics/
 layout: reflection
@@ -9,7 +9,7 @@ layout: reflection
 # ⚖️ Ethics Paper
 
 Below is my ethics reflection embedded as a PDF.  
-You can also [download it here]({{ '/assets/reflections/ethics.pdf' | relative_url }}).
+You can also [download it here]({{ '/assets/ethics.pdf' | relative_url }}).
 
 <embed 
   src="{{ '/assets/ethics.pdf' | relative_url }}" 

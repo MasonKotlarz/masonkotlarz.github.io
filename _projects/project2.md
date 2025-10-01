@@ -1,18 +1,19 @@
 ---
-title: "Forensic File Analyzer"
-date: 2025-02-10
-role: "Developer"
-skills: ["Python", "Digital Forensics", "Regex"]
-summary: "A tool to parse and analyze digital evidence files from compromised machines."
-permalink: /projects/file-analyzer/
+title: "Processor - CPRE 381"
+date: 2023-04-22
+permalink: /projects/processor/
 layout: project
 ---
 
-# 🔍 Forensic File Analyzer
+# Processor - CPRE 381 
 
-A Python-based tool that automates the parsing and extraction of forensic data from memory dumps and disk images.
+Designed and Created, in VLHD, a Single Cycle Processor, Software Schuduled Pipeline Processor, and a Hardware Schuduled Pipeline Processor (with a branch predictor, data forwarding, and mininal instruction flushing)
 
-**My role:** Built core parsing modules and regex-based scanning logic.
+###  Project Screenshot
 
-**Skills gained:** Python scripting, digital forensics, file system analysis, and automated reporting.
+<img 
+  src="{{ '/assets/HardwarePipelin.png' | relative_url }}" 
+  alt="Screenshot" 
+  style="max-width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2);" />
 
+---

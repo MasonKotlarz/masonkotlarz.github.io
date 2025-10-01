@@ -4,7 +4,7 @@ title: "Reflections"
 permalink: /reflections/
 ---
 
-# 📚 My Reflections
+# My Reflections
 
 Below are my key reflections during the CPRE program:
 

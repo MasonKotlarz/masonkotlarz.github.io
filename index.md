@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /
 ---
 
-![Mason Kotlarz]({{ '/assets/images/me.jpg' | relative_url }}){: style="max-width:200px; border-radius:50%; margin-bottom:20px;"}
+![Mason Kotlarz]({{ '/assets/profileimg.jpg' | relative_url }}){: style="max-width:200px; border-radius:50%; margin-bottom:20px;"}
 
 # Hi, I’m Mason Kotlarz
 
@@ -13,7 +13,7 @@ I am passionate about learning, I am hardworking, determined, and overly ambitio
 
 ### Career Objective
 
-I aim to work in **cybersecurity engineering** — building secure infrastructure, reverse-engineering malware, and developing tools to defend critical networks.
+I aim to work in **cybersecurity engineering** — either in a cyber security engineering, SOC, or Pentesting Role 
 
 ---
 

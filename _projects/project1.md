@@ -1,20 +1,16 @@
 ---
-title: "BinaryArtillery Honeypot"
-date: 2025-03-01
-role: "Lead Developer"
-skills: ["Linux", "Network Security", "Python"]
-summary: "A honeypot project designed to capture malware samples and analyze attacker behavior."
-permalink: /projects/binaryartillery/
+title: "Suitemates - COMS 309"
+date: 2023-04-22
+role: "Developer"
+permalink: /projects/Suitemates/
 layout: project
 ---
 
-# 🛡 BinaryArtillery Honeypot
+# Suitemates - COM S 309
 
-This project involved designing and deploying a honeypot to capture malicious network activity and analyze attacker behavior.
+Awarded Best Project
 
-**My role:** Designed the architecture, configured the environment, and implemented the data capture and logging system.
-
-**Skills gained:** Linux server hardening, networking fundamentals, malware analysis basics, and Python scripting.
+I, and 3 other students, worked on an app that can be ran on and Android devices, similar to the popular app tinder, but can be used for finding roommates
 
 ---
 
