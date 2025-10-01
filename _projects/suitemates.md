@@ -3,6 +3,7 @@ title: "Suitemates - COM S 309"
 layout: post
 date: 2023-04-22
 tags: [android, java, mobile-development]
+author: mkotlarz
 ---
 
 **Awarded Best Project**

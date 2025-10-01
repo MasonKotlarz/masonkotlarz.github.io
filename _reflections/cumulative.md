@@ -3,6 +3,7 @@ title: "Cumulative Reflection"
 layout: post
 date: 2025-09-15
 tags: [cumulative, cpre, reflection]
+author: mkotlarz
 ---
 
 Below is my cumulative reflection embedded as a PDF.  

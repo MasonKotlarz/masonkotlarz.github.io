@@ -1,27 +1,53 @@
+# =====================================================
+# Site Settings
+# =====================================================
 title: "Mason Kotlarz Portfolio"
-description: "Cybersecurity Engineering Portfolio"
-baseurl: ""
-url: "https://masonkotlarz.github.io"
+description: "Cybersecurity | Projects | Reflections"
+url: ""   # leave empty for localhost, set to your GitHub Pages URL later
+baseurl: ""  
 
+# =====================================================
+# Author Settings
+# =====================================================
+authors:
+  mkotlarz:
+    name: "Mason Kotlarz"
+    avatar: /assets/img/profile.png
+    bio: "Cybersecurity Engineering Student @ Iowa State"
+    email: "maskotlarz@iastate.edu"
+    github: "MasonKotlarz"
+    linkedin: "https://linkedin.com/in/masonkotlarz"
+
+# Default author
+author: mkotlarz
+
+# =====================================================
+# Sidebar Settings
+# =====================================================
+avatar: /assets/img/profile.png
+
+social:
+  email: "maskotlarz@iastate.edu"
+  github: "MasonKotlarz"
+  linkedin: "https://linkedin.com/in/masonkotlarz"
+
+# =====================================================
+# Theme Settings
+# =====================================================
 theme: jekyll-theme-chirpy
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-include-cache
-
 lang: en
 timezone: America/Chicago
 
-sidebar:
-  avatar: /assets/img/profile.jpg
-  title: "Mason Kotlarz"
-  subtitle: "Cybersecurity Engineering Student"
-  
-  social:
-    email: "mkotlarz@iastate.edu"
-    linkedin: "https://linkedin.com/in/masonkotlarz"
-    github: "https://github.com/MasonKotlarz"
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Feed
+feed:
+  path: feed.xml
+
 
 # Define collections
 collections:
@@ -38,9 +64,7 @@ collections:
     output: true
     permalink: /:name/
 
-author:
-  name: "Mason Kotlarz"
-  email: "youremail@domain.com"
+
 
 # Defaults for layouts
 defaults:

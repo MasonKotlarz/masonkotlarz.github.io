@@ -3,6 +3,7 @@ title: "MaryGreeley"
 layout: post
 date: 2023-05-10
 tags: [internship, work-experience]
+author: mkotlarz
 ---
 
 ### Internship at Mary Greeley Medical Center  

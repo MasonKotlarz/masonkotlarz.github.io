@@ -4,12 +4,16 @@ title: "Mason Kotlarz Portfolio"
 permalink: /
 ---
 
-Welcome
+
+Welcome!  
 
 This is my Cybersecurity Engineering Portfolio for **CPRE 494** at Iowa State.  
 
-Use the sidebar to explore:  
-- **Projects** (Senior Design, Network Forensics, Suitemates, Processor)  
-- **Reflections** (Ethics, Gen Ed, Cumulative)  
-- **Internship Experience**  
-- **Resume (PDF)**
+---
+
+### 📬 Contact Info
+- 📧 Email: [maskotlarz@iastate.edu](mailto:maskotlarz@iastate.edu)  
+- 💻 GitHub: [MasonKotlarz](https://github.com/MasonKotlarz)  
+- 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-linkedin)  
+
+---
