@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Network Forensics – CYBE 436"
+title: "Network Forensics - CYBE 436"
 date: 2023-03-15
 categories: [Projects, Coursework]
 tags: [Forensics, Networking, Security]

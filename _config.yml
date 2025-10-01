@@ -31,27 +31,6 @@ github:
 twitter:
   username: TheCyberSecHub # change to your Twitter username
 
-author: Mason Kotlarz
-
-social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Mason Kotlarz
-  email:  mkotlarz@iastate.edu # change to your email address
-  links:
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:mkotlarz@iastate.edu"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/MasonKotlarz"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/masonkotlarz"
-    - label: "Twitter"
-      icon: "fab fa-twitter"
-      url: "https://twitter.com/TheCyberSecHub"
-
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
@@ -113,6 +92,11 @@ defaults:
       layout: page
       permalink: /:title/
   # ADD THESE NEW DEFAULTS FOR YOUR COLLECTIONS:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author: mason
   - scope:
       path: "_projects"
       type: "projects"

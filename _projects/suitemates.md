@@ -1,5 +1,5 @@
 ---
-title: "Suitemates - COM S 309"
+title: "Suitemates - COMS 309"
 layout: post
 date: 2023-04-22
 categories: [Projects]

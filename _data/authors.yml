@@ -1,0 +1,18 @@
+mason:
+  name: "Mason Kotlarz"
+  avatar: "/assets/img/profile.png"
+  bio: "Cybersecurity Engineering @ Iowa State"
+  email: "mkotlarz@iastate.edu"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:mkotlarz@iastate.edu"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/MasonKotlarz"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/masonkotlarz"
+    - label: "Twitter"
+      icon: "fab fa-twitter"
+      url: "https://twitter.com/TheCyberSecHub"

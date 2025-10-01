@@ -8,4 +8,4 @@ tags: [Healthcare, Security, Compliance, SOC]
 
 Internship at **Mary Greeley Medical Center**, focusing on healthcare cybersecurity, compliance, and SOC operations.
 
-👉 [View full experience](/experience/marygreeley/)
+👉 [View full experience](/experience/MaryGreeley/)
