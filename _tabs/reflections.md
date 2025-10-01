@@ -1,11 +1,10 @@
 ---
 layout: page
-title: "Reflections"
+title: Reflections
 permalink: /reflections/
+icon: fas fa-book
+order: 3
 ---
-
-Here are my reflections:
-
 {% for reflection in site.reflections %}
 - [{{ reflection.title }}]({{ reflection.url }})
 {% endfor %}

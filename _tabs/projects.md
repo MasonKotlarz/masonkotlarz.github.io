@@ -1,11 +1,10 @@
 ---
 layout: page
-title: "Projects"
+title: Projects
 permalink: /projects/
+icon: fas fa-project-diagram
+order: 2
 ---
-
-Here are my projects:
-
 {% for project in site.projects %}
 - [{{ project.title }}]({{ project.url }})
 {% endfor %}
