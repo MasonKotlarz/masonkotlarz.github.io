@@ -1,38 +1,34 @@
-# Chirpy Configuration
-lang: en
-timezone: America/Chicago
-title: Mason Kotlarz
-tagline: Cybersecurity Engineering Portfolio
-description: >-
-  Portfolio showcasing projects and reflections in cybersecurity, 
-  digital forensics, and software development.
+title: "Mason Kotlarz Portfolio"
+description: "Cybersecurity Engineering Portfolio"
+baseurl: ""
+url: "https://masonkotlarz.github.io"
 
-# Chirpy theme
-remote_theme: cotes2020/jekyll-theme-chirpy
+# Use minimal theme
+theme: minima
 
-# Site build settings
-permalink: /posts/:title/
-paginate: 10
-paginate_path: /page:path/
+# Or no theme with custom layout
+# theme: null
 
-# Social media
-twitter:
-  username: 
-github:
-  username: MasonKotlarz
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
-# Comments (disable if not needed)
-comments:
-  active: false
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+  reflections:
+    output: true
+    permalink: /reflections/:path/
 
-# Analytics (disable if not needed)
-analytics:
-  active: false
-
-# Exclude from processing
-exclude:
-  - .git
-  - .gitignore
-  - README.md
-  - Gemfile
-  - Gemfile.lock
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "reflections"
+    values:
+      layout: "default"
